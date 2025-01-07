@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student pursuing a BS at New York University, passionate about deepening my knowledge in coding, machine learning, and data science. I am currently working on my data analysis and machine learning skills by developing an algorithm that predicts the outcomes of NBA games as well as the specific statistics players will achieve in each game.
+I am a computer science student pursuing a BS at New York University, passionate about deepening my knowledge in coding, machine learning, and data science. 
 
 
 ## 🌐 Socials:
