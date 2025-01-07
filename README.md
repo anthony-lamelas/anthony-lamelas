@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student pursuing a BS at New York University, passionate about deepening my knowledge in coding, machine learning, and data science. 
+I am a student at New York University pursuing a B.S. in computer science with a minor in mathematics, passionate about deepening my knowledge in coding, machine learning, and data science. 
 
 
 ## 🌐 Socials:
